@@ -26,18 +26,10 @@
 Jangle is a cross platform chat application which allows users to simultaneously maintain more than one client end points for conversing with other users.
 
 ---
-## Jangle Web
-<br>
-
-<img src="jangleWeb.gif" alt="Jangle-web" width="960" height="540"/>
-
----
 ## Jangle App
 <br>
 
 <img src="jangleApp.gif" alt="Jangle-app" height="540" width="270" />
-
-<br>
 
 <br>
 
