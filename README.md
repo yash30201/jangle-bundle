@@ -16,10 +16,12 @@
 
 # Jangle
 
-[![Codemagic build status](https://api.codemagic.io/apps/6114cfef2ca707a421efbc7f/6114cfef2ca707a421efbc7e/status_badge.svg)](https://codemagic.io/apps/6114cfef2ca707a421efbc7f/6114cfef2ca707a421efbc7e/latest_build)
 [![Server](https://img.shields.io/badge/Server-%23c8e6c9.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yash30201/jangle-api)
 [![Web](https://img.shields.io/badge/Web-%23eeeeee.svg?style=for-the-badge&logo=github&logoColor=black)](https://jangle-chat.herokuapp.com/)
+[![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logoColor=white)](https://axios-http.com/)
 [![App](https://img.shields.io/badge/App-%2302569B.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash30201/jangle_app)
+[![Codemagic build status](https://api.codemagic.io/apps/6114cfef2ca707a421efbc7f/6114cfef2ca707a421efbc7e/status_badge.svg)](https://codemagic.io/apps/6114cfef2ca707a421efbc7f/6114cfef2ca707a421efbc7e/latest_build)
+
 
 ## What is Jangle?
 ---
