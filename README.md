@@ -9,7 +9,7 @@
 [![Axios](https://img.shields.io/badge/Axios-%23FFFFFF.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTU1LjQgMjIuMDhoLTcuMjI1bC00LjI1IDcuMDU1LTQuMTIyLTcuMDU1aC03LjNsNy45NDcgMTEuNjQ1LTUuMTQyIDcuNTIyLTguNDU3LTE5LjEyNWgtNi4zNzVsMTAuNTQgMjMuNzE0aDcuOTQ3bDQuOTcyLTcuNTIyIDQuOTMgNy41MjJoNi41MDJsLTcuODYyLTEyLjExMnoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTQuODIgNTkuNzI1SDBMMjQuNDcgNC4yMjNIMzkuNHoiIGZpbGw9IiMwYTk5ZTAiLz48cGF0aCBkPSJNNDkuMTM3IDU5LjcyNUw2NCA1OS43NzggMzkuNCA0LjIyMkgyNC40N2wyNC42NjggNTUuNTAyIiBmaWxsPSIjMjIyIi8+PC9zdmc+&logoColor=white)](https://axios-http.com/)
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![Flutter](https://img.shields.io/badge/Provider-%23EEEEEE.svg?style=for-the-badge)](https://pub.dev/packages/provider)
+[![Provider](https://img.shields.io/badge/Provider-%23EEEEEE.svg?style=for-the-badge)](https://pub.dev/packages/provider)
 
 
 
@@ -17,7 +17,7 @@
 # Jangle
 
 [![Server](https://img.shields.io/badge/Server-%23c8e6c9.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yash30201/jangle-api)
-[![Web](https://img.shields.io/badge/Web-%23eeeeee.svg?style=for-the-badge&logo=github&logoColor=black)](https://axios-http.com/)
+[![Web](https://img.shields.io/badge/Web-%23eeeeee.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yash30201/jangle)
 [![Website](https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logoColor=white)](https://jangle-chat.herokuapp.com/)
 [![App](https://img.shields.io/badge/App-%2302569B.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash30201/jangle_app)
 [![Codemagic build status](https://api.codemagic.io/apps/6114cfef2ca707a421efbc7f/6114cfef2ca707a421efbc7e/status_badge.svg)](https://codemagic.io/apps/6114cfef2ca707a421efbc7f/6114cfef2ca707a421efbc7e/latest_build)
