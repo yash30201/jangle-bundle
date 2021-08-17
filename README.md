@@ -11,8 +11,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Provider](https://img.shields.io/badge/Provider-%23EEEEEE.svg?style=for-the-badge)](https://pub.dev/packages/provider)
 
+<br>
 
-
+![chatIcon](https://user-images.githubusercontent.com/54198301/129656124-f4f96ae1-1325-41b1-86e1-086f894d9767.png)
 
 # Jangle
 
