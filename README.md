@@ -26,7 +26,7 @@
 
 ## What is Jangle?
 ---
-Jangle is a cross platform chat application which allows users to simultaneously maintain more than one client end points for conversing with other users.
+Jangle is a cross-platform chat application that allows users to simultaneously maintain more than one client endpoint for conversing with other users.
 
 ---
 ## Jangle App
